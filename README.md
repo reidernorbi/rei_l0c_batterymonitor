@@ -3,7 +3,7 @@
 ![ROS 2 Humble](https://img.shields.io/badge/ROS_2-Humble-3498DB?logo=ros)
 ![C++](https://img.shields.io/badge/Language-C++17-blue?logo=c%2B%2B)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-![License](https://img.shields.io/badge/License-GPL--3.0-lightgrey)
+![License](https://img.shields.io/badge/License-Apache--2.0-lightgrey)
 
 ROS 2 Humble alapú, C++ nyelven megvalósított járműipari állapotfigyelő rendszer, amely egy elektromos hajtású jármű akkumulátorának merülését szimulálja, és kritikus feszültségszint esetén vészjelzést generál.
 
