@@ -43,6 +43,12 @@ flowchart LR
 ## Build és Futtatás
 
 ```bash
+Feltételezzük, hogy a munkaterület: `~/ros2_ws/`.
+
+# Csomagok klónozása:
+cd ~/ros2_ws/src
+git clone https://github.com/reidernorbi/rei_l0c_batterymonitor
+
 # Fordítás a workspace gyökeréből
 cd ~/ros2_ws
 colcon build --packages-select rei_l0c_batterymonitor --symlink-install
